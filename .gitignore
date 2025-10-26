@@ -1,0 +1,6 @@
+# Emacs backup files
+*~
+.ipynb_checkpoints/
+*png
+# Mannaggia a Apple:
+.DS_Store
